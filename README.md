@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech CSE (AI) student focused on backend and applied ML projects.
+B.Tech CSE (AI) student focused on AI and applied ML projects.
 Interested in scalable systems, NLP, and practical AI.
 
 # 💻 Tech Stack:
