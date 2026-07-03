@@ -9,7 +9,3 @@ I am currently working on EvalBench, my personal project on LLM and RAG evaluati
 ![](https://streak-stats.demolab.com/?user=Arya1424&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arya1424&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Arya1424&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
